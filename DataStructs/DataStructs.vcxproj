@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="bstree.hpp" />
-    <ClInclude Include="rbtree.hpp" />
+    <ClInclude Include="rbtree.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp" />

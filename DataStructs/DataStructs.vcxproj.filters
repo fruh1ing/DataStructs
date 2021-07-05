@@ -18,7 +18,7 @@
     <ClInclude Include="bstree.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="rbtree.hpp">
+    <ClInclude Include="rbtree.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
