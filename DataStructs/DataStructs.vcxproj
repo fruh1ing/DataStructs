@@ -142,6 +142,7 @@
     <ClInclude Include="bstree.hpp" />
     <ClInclude Include="heap.h" />
     <ClInclude Include="rbtree.h" />
+    <ClInclude Include="skiplist.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp" />
